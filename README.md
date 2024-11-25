@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi hi 👋
 
-<!--
-**quendaltz/quendaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Sugritsakorn Pattanaputhong (Pong)
 
-Here are some ideas to get you started:
+I'm Software Engineer with both front-end and back-end web development experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm really passionate about games.
+
+💻 my practice project [quendaltz/Armpulse](https://github.com/quendaltz/Armpulse)
+
+you can contact me at [apogixelleiz@gmail.com](mailto:apogixelleiz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sugritsakorn-pattanaputhong-5364a41ba)
+
+### My Skills
+![My Skills](https://skillicons.dev/icons?i=ts,cpp,go,python)
+
+### Things I'm currenly learning
+![My Skills](https://skillicons.dev/icons?i=unreal,rust)
